@@ -8,6 +8,6 @@ It can also issue alerts when a line is crossed.
 
 ![Murrey Math Line X indicator helps to spot some importante long-term levels on the Bitcoin chart](https://github.com/EarnForex/Murrey-Math-Line-X/blob/main/README_Images/murrey-math-line-x-pivots-for-btcusd.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Murrey-Math-Line-X/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Murrey-Math-Line-X/
 
 Any contributions to the code are welcome!
